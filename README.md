@@ -1,0 +1,2 @@
+# paintpad
+Paint Pad is a software in which user can paint using mouse. The unique feature of paint pad is that user can choose from 10 different variety of colours to paint also, 8 different brush styles are provided to enhance the experience. The brush type includes circular brush, square brush, rectangle brush, very small brush, small brush, medium brush, large brush and very large brush. Paint Pad also allows user to make whole drawing area either white or black. 
